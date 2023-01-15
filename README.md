@@ -32,3 +32,5 @@ Online Quiz Micro Service API ( Using NodeJs, ExpressJs, MongoDB)
 <li>Click on "Send" button, you will receive a JSON response containing the details of the quiz with the new participant added.</li>
 </ul>
 <img src = "https://user-images.githubusercontent.com/56023805/212546121-49565a39-050f-4bdb-a18c-a71f478e0d02.JPG" width="1000" height="500">
+
+### Start the server using 'node index.js' command
